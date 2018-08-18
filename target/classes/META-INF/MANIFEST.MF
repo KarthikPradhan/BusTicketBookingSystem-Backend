@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Bus Ticket Booking System
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: admin
+Implementation-Vendor-Id: com.system.booking
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/bus-ticket-booking
+Created-By: Maven Integration for Eclipse
+
