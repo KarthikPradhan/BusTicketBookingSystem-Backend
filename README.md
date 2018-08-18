@@ -1,6 +1,6 @@
 # BusTicketBookingSystem-Backend
 This project is done using Java 8. This is a sample bus ticket printing application.
-Front-end application can be found at https://github.com/KarthikPradhan/BusTicketBookingSystem-Frontend/
+The front-end application can be found at https://github.com/KarthikPradhan/BusTicketBookingSystem-Frontend/.
 
 # Requirements
 * Java 8
